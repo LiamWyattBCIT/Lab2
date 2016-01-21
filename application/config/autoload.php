@@ -94,6 +94,6 @@ $autoload['language'] = array();
   |	$autoload['model'] = array('model1', 'model2');
   |
  */
-$autoload['model'] = array();
+$autoload['model'] = array('images');
 /* End of file autoload.php */
 /* Location: ./application/config/autoload.php */
